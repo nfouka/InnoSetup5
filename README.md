@@ -2,6 +2,7 @@
 InnoSetup5 for Linux 
 
 
+<img src='http://programaenlinea.net/wp-content/uploads/2017/10/Inno-Setup-Compiler.png' />
 
 
 Setting up the Inno Setup compiler on Debian
