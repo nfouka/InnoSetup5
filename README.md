@@ -5,7 +5,7 @@ InnoSetup5 for Linux
 
 
 Setting up the Inno Setup compiler on Debian
-Posted on 2009/03/16 by Andre Beckedorf	
+Posted on 01-02-2019 à 23h00 by Nadir Fouka
 
 I’m currently setting up a nightly build system for Quasar on my Linux box which is running Debian. This system also cross-compiles Quasar for Windows.
 The Windows version of Quasar is going to be available in two fashions: one self-contained, portable version and one version that can be installed.
